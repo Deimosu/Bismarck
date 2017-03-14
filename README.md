@@ -69,6 +69,7 @@ ___
 |!nickname **[mention]** **[reason (opt.)]**                         ||
 |!filter **[word/text]**                                             ||
 |!ban **[mention]** **[reason (opt.)]**                              ||
+|!hackban **userID]** **[reason (opt.)]**                            ||
 |!log **[channel mention (opt.)]** **[day.month.year (opt.)]**       ||
 |!faq.new **[title]** **[text]**                                     ||
 |!faq.edit **[title]** **[text]**                                    ||
